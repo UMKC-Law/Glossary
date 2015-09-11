@@ -1,4 +1,4 @@
-#Glossary of Terms for Third Party User Agreement
+#Glossary
 Let us make this general.
 
 <dl>
