@@ -14,6 +14,11 @@ Let us make this general.
 <dd>Data aggregation is any process in which information is gathered and expressed in a summary form, for purposes such as statistical analysis.",http://searchsqlserver.techtarget.com/definition/data-aggregation
 </dd>
 
+
+<dt><b>Agile Project Management</b></dt>
+<dd>Is an iterative and incremental method of managing the design and build activities for engineering, information technology, and new product or service development projects in a highly flexible and interactive manner, for example agile software development. It requires capable individuals from the relevant business, with supplier and customer input.  There are also links to lean techniques, Kanban (かんばん(看板)?) and Six Sigma. Agile techniques are best used in small-scale projects or on elements of a wider program of work, or on projects that are too complex for the customer to understand and specify before testing prototypes. http://en.wikipedia.org/wiki/Agile_management  
+</dd>
+
 <dt><b>Agreement</b></dt>
 <dd>a negotiated and typically legally binding arrangement between parties as to a course of action.,https://www.google.com/?gws_rd=ssl#q=agreement+definition
 </dd>
@@ -25,6 +30,13 @@ Let us make this general.
 
 <dt><b>Application Program Interface</b></dt>
 <dd>How computer programs talk to one another. Can be understood in terms of how a programmer sends instructions between programs. APIs are typically connected to a database which is being updated in real-time.,http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
+</dd>
+<dd>“In the simplest terms, APIs are sets of requirements that govern how one application can talk to another. APIs aren't at all new; whenever you use a desktop or laptop, APIs are what make it possible to move information between programs” From: http://readwrite.com/2013/09/19/api-defined 
+</dd>
+<dd>Forrester Research (https://www.forrester.com/home/ ) published a Top Technology Trends Forecast in September, 2014 which a Forbes article discussed.  #3 among the trends is titled “APIs become Digital Glue”: 
+</dd>
+
+<dd>“Forrester draws a comparison between service-oriented architecture (SOA) and application platform interfaces (APIs).  Like the former, the latter provides “open access to useful functionality through network-based services using technologies that are readily accessible from a broad range of programming environments.” The report sites as examples Amazon.com AMZN +0.52%’s product advertising API and the Washington Metropolitan Area Transit Authority’s API which represent business model innovation under this paradigm, while also highlighting the need for ever more sophisticated security given the exposure of data to a much broader set of individuals” FROM: http://www.forbes.com/sites/peterhigh/2013/11/25/forrester-top-technology-trends-for-2014-and-beyond/?mkt_tok=3RkMMJWWfF9wsRonua7Oeu/hmjTEU5z16ukkXqK3hokz2EFye+LIHETpodcMS8RlNa+TFAwTG5toziV8R7XFL8113d8QXxnk 
 </dd>
 
 <dt><b>Attribution</b></dt>
@@ -42,6 +54,16 @@ Let us make this general.
 <dt><b>BitTorrent</b></dt>
 <dd>BitTorrent is a protocol for distributing the bandwith for transferring very large files between the computers which are participating in the transfer. Rather than downloading a file from a specific source ,BitTorrent allows peers to download from each other.",http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
 </dd>
+
+<dt><b>Card Sorting</b></dt>
+<dd>“Card sorting is a method used to help design or evaluate the information architecture of a site. In a card sorting session, participants organize topics into categories that make sense to them and they may also help you label these groups. To conduct a card sort, you can use actual cards, pieces of paper, or one of several online card-sorting software tools.” From: http://www.usability.gov/how-to-and-tools/methods/card-sorting.html
+</dd>
+
+<dt><b>Charrette</b></dt>
+<dd> “The word charrette may refer to any collaborative session in which a group of designers drafts a solution to a design problem. While the structure of a charrette varies, depending on the design problem and the individuals in the group, charrettes often take place in multiple sessions in which the group divides into sub-groups. Each sub-group then presents its work to the full group as material for further dialogue. Such charrettes serve as a way of quickly generating a design solution while integrating the aptitudes and interests of a diverse group of people.”
+</dt>
+<dd>“A meeting in which all stakeholders in a project attempt to resolve conflicts and map solutions.” From:  http://en.wikipedia.org/wiki/Charrette
+</dt>
 
 <dt><b>Closed Data</b></dt>
 <dd>Closed Data refers to Open Data that is restricted by: making data available for a charge, compilation in databases or websites to which only registered members or customers can have access, use of a proprietary or closed technology or encryption which creates a barrier for access, copyright forbidding (or obfuscating) re-use of the data, patent forbidding re-use of the data (for example the 3-dimensional coordinates of some experimental protein structures have been patented), restriction of robots to websites, with preference to certain search engines, aggregating factual data into ""databases"" which may be covered by ""database rights"" or ""database directives"" (e.g. Directive on the legal protection of databases), time-limited access to resources such as e-journals (which on traditional print were available to the purchaser indefinitely), webstacles, or the provision of single data points as opposed to tabular queries or bulk downloads of data sets, political, commercial or legal pressure on the activity of organisations providing Open Data (for example the American Chemical Society lobbied the US Congress to limit funding to the National Institutes of Health for its Open PubChem data)",http://en.wikipedia.org/wiki/Open_data#Closed_data
@@ -147,6 +169,28 @@ Let us make this general.
 <dd>Acronym for Fair Information Practice Principles -- includes notice, choice, access, accuracy, data minimization, security, and accountability","""Internet of Things: Privacy & Security in a Connected World"" FTC Staff Report. January 2015"
 </dd>
 
+<dt><b>Git</b></dt>
+<dd>“Is a distributed revision control and source code management (SCM) system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.  Git was initially designed and developed by Linus Torvalds for Linux kernel development in 2005, and has since become the most widely adopted version control system for software development.” From: http://en.wikipedia.org/wiki/Git_(software) 
+</dd>
+
+<dt><b>GitHub</b></dt>
+<dd>“Is a Git repository web-based hosting service which offers all of the distributed revision control and source code management (SCM) functionality of Git as well as adding own features. Unlike Git, which is strictly a command-line tool, GitHub provides a web-based graphical interface and desktop as well as mobile integration. It also provides access control and several collaboration features such as wikis, task management, and bug tracking and feature requests for every project.” From: http://en.wikipedia.org/wiki/GitHub 
+</dd>
+
+<dt><b>Hackathon (See also Legal Hackathon)</b></dt>
+<dd>“A hackathon (also known as a hack day, hackfest or codefest) is an event in which computer programmers and others involved in software development, including graphic designers, interface designers and project managers, collaborate intensively on software projects” From: http://en.wikipedia.org/wiki/Hackathon 
+</dd>
+
+<dt><b>Hackathon Outpost</b></dt>
+<dd>A geographically different place from the original site of the Hackathon that allows participants to participate with the main site with local onsite teams or as part of virtual teams working with the original site attendees
+</dd>
+
+<dt><b>Heuristic</b></dt>
+<dd>“involving or serving as an aid to learning, discovery, or problem-solving by experimental and especially trial-and-error methods <heuristic techniques> <a heuristic assumption>; also :  of or relating to exploratory problem-solving techniques that utilize self-educating techniques (as the evaluation of feedback) to improve performance <a heuristic computer program>”
+o	From: http://www.merriam-webster.com/dictionary/heuristic 
+</dd>
+
+
 <dt><b>HIPAA</b></dt>
 <dd>Health Insurance Portability and Accountability Act. The HIPAA Privacy Rule, also called the Standards for Privacy of Individually Identifiable Health Information, provided the first nationally-recognizable regulations for the use/disclosure of an individual's health information. Essentially, the Privacy Rule defines how covered entities use individually-identifiable health information or the PHI (Personal Health Information).",http://whatishipaa.org/
 </dd>
@@ -185,6 +229,16 @@ Let us make this general.
 
 <dt><b>Learning Lab</b></dt>
 <dd>Learning Lab is an innovative instructional space designed for a specific use.,dmc
+</dd>
+
+<dt><b>Legal Hackathon</b></dt>
+<dd>“A legal hackathon is an event that brings together teams of lawyers, policymakers, academics, and technologists to develop innovative, on-the-spot solutions to challenging legal issues.”  Often attributed to Professor Jonathan Askin founder of Brooklyn Law’s BLIP Clinic.
+</dd>
+
+<dt><b>License</b></dt>
+<dd>Noun: a permit from an authority to own or use something, do a particular thing, or carry on a trade (especially in alcoholic beverages). "a gun license"
+</dd>
+<dd>•	Verb: grant a license to (someone or something) to permit the use of something or to allow an activity to take place. "brokers must be licensed to sell health-related insurance"
 </dd>
 
 <dt><b>Licensee</b></dt>
@@ -263,6 +317,10 @@ Let us make this general.
 <dd>In production and development, open source as a development model promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone.",http://en.wikipedia.org/wiki/Open_source
 </dd>
 
+<dt><b>Permit</b></dt>
+<dd>permit n. (17c) A certificate evidencing permission; a license <a gun permit>. (Black's Law Dictionary (9th ed. 2009))
+</dd>
+
 <dt><b>Personally Identifiable Information (PII)</b></dt>
 <dd>Personally identifiable information (PII), as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context.",http://en.wikipedia.org/wiki/Personally_identifiable_information
 </dd>
@@ -295,8 +353,16 @@ Let us make this general.
 <dd>The reverse process of defeating de-identification to identify individuals is known as re-identification.,http://en.wikipedia.org/wiki/De-identification
 </dd>
 
+<dt><b>Rest Interface</b></dt>
+<dd>Representational State Transfer http://stackoverflow.com/questions/209905/representational-state-transfer-rest-and-simple-object-access-protocol-soap 
+</dd>
+
 <dt><b>Revocable</b></dt>
 <dd>Able to take back or withdraw; annul, cancel, or reverse; rescind or repeal a license or agreement.",http://dictionary.reference.com/browse/revoke
+</dd>
+
+<dt><b>Scrum</b></dt>
+<dd>“Is an iterative and incremental agile software development framework for managing product development. It defines "a flexible, holistic product development strategy where a development team works as a unit to reach a common goal", challenges assumptions of the "traditional, sequential approach" to product development, and enables teams to self-organize by encouraging physical co-location or close online collaboration of all team members, as well as daily face-to-face communication among all team members and disciplines in the project.  A key principle of Scrum is its recognition that during a project the customers can change their minds about what they want and need (often called "requirements churn"), and that unpredicted challenges cannot be easily addressed in a traditional predictive or planned manner. As such, Scrum adopts an empirical approach—accepting that the problem cannot be fully understood or defined, focusing instead on maximizing the team's ability to deliver quickly and respond to emerging requirements. From: http://en.wikipedia.org/wiki/Scrum_(software_development) 
 </dd>
 
 <dt><b>Sensors</b></dt>
@@ -305,6 +371,10 @@ Let us make this general.
 
 <dt><b>Smart City</b></dt>
 <dd>A smart city (also smarter city) uses digital technologies to enhance performance and wellbeing, to reduce costs and resource consumption, and to engage more effectively and actively with its citizens. Key 'smart' sectors include transport, energy, health care, water and waste.",http://en.wikipedia.org/wiki/Smart_city
+</dd>
+
+<dt><b>SME</b></dt>
+<dd>Subject Matter Expert
 </dd>
 
 <dt><b>Static Data (Structure)</b></dt>
@@ -321,6 +391,10 @@ Let us make this general.
 
 <dt><b>Technology Ecosystem</b></dt>
 <dd>Technology ecosystems are product platforms defined by core components made by the platform owner and complemented by applications made by autonomous companies in the periphery.,http://lexicon.ft.com/Term?term=technology-ecosystem
+</dd>
+
+<dt><b>Vaporware</b></dt>
+<dd>Software or hardware that has been advertised but is not yet available to buy, either because it is only a concept or because it is still being written or designed.
 </dd>
 
 <dt><b>XML</b></dt>
