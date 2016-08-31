@@ -28,7 +28,7 @@ Let us make this general.
 </dd>
 
 
-<dt><b>Application Program Interface</b></dt>
+<dt><b>Application Program Interface (API)</b></dt>
 <dd>How computer programs talk to one another. Can be understood in terms of how a programmer sends instructions between programs. APIs are typically connected to a database which is being updated in real-time.,http://opendatahandbook.org/pdf/OpenDataHandbook.pdf
 </dd>
 <dd>“In the simplest terms, APIs are sets of requirements that govern how one application can talk to another. APIs aren't at all new; whenever you use a desktop or laptop, APIs are what make it possible to move information between programs” From: http://readwrite.com/2013/09/19/api-defined 
